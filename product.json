@@ -1,0 +1,110 @@
+{
+  "_createdAt": "2022-11-04T20:36:42Z",
+  "_id": "26d6232d-7695-48d6-9381-b5fe49dce901",
+  "_rev": "EMlANHgCc3HIanJefptEBS",
+  "_type": "product",
+  "_updatedAt": "2022-11-05T21:17:26Z",
+  "care_guide": "Croton\nOrigin Country: Malaysia and the Pacific\nIn areas with warm, humid summers, croton can be grown outdoors as a unique and colorful landscape plant. They work well in tropical-themed containers or alongside annuals in the ground. When nighttime temperatures drop to around 50°F (10°C), croton will need to be taken indoors\n•Keep the soil evenly moist, but let it dry out between waterings.\n•If humidity is low in your home, mist around the leaves with water once a week or keep a tray of wet gravel near the plant.\n•Croton leaves are dust magnets. Gently wipe the leaves with a moist cloth twice a month to keep them clean and dust-free.\n•Fertilize the plant in spring and summer, while the plant is actively growing. In fall and winter, refrain from fertilize more sparingly or fertilizing altogether.\n•New croton plants can be started with 4- to 6-inch stem cuttings. Remove the bottom leaves and place the cutting in a glass of water. After roots have formed, plant in a small pot\n",
+  "categories": [
+    {
+      "_key": "f9392d05b76e",
+      "_ref": "33d6272a-bc78-42fb-9152-c854439d4337",
+      "_type": "reference"
+    },
+    {
+      "_key": "132750a796bf",
+      "_ref": "513d1d9f-dd05-4487-9598-3b06e65f1e19",
+      "_type": "reference"
+    },
+    {
+      "_key": "3195ca7c5f9c",
+      "_ref": "167ba649-472c-433a-8f72-1c7706fc1a83",
+      "_type": "reference"
+    },
+    {
+      "_key": "e8a11df8fc4e",
+      "_ref": "475c86e9-f41a-47aa-920c-34de15cbe090",
+      "_type": "reference"
+    },
+    {
+      "_key": "5da82c9cd701",
+      "_ref": "6acd01fd-5f06-4605-8189-c5f735418c39",
+      "_type": "reference"
+    },
+    {
+      "_key": "8b69d125dac2",
+      "_ref": "a5c615d5-70d9-4772-b8e4-4d811a8dc68d",
+      "_type": "reference"
+    },
+    {
+      "_key": "bda95331d02c",
+      "_ref": "62ca49d6-0dc1-4a0a-b9c9-4e47e95ab601",
+      "_type": "reference"
+    },
+    {
+      "_key": "f510587faae7",
+      "_ref": "6acd01fd-5f06-4605-8189-c5f735418c39",
+      "_type": "reference"
+    }
+  ],
+  "description": "Croton is a specie from Malaysia and the Pacific  so, its one of the best plant to give your house rain forest look. The croton plant (Codiaeum variegatum) has colorful variegated foliage and nearly limitless leaf forms with hundreds of croton plant varieties. Croton plants grow best outdoors in warm, humid climates. They like full to dappled light and plentiful water. Outdoor croton plants can reach around 8 feet tall, but as pot-grown houseplants they tend to be much smaller, making croton a good indoor plant in that regard. In general, Codiaeum variegatum grows relatively slowly, gaining less than a foot per growing season.",
+  "images": [
+    {
+      "_key": "87fbe5878d9c",
+      "_type": "image",
+      "asset": {
+        "_ref": "image-a7842bd31e6bb913c7818123e1be65f6e184ae1c-3456x5184-jpg",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "f5d958c16e43",
+      "_type": "image",
+      "asset": {
+        "_ref": "image-9341829dec2a67ae4b25612df5ee241643eefdae-3456x5184-jpg",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "e7921ca57a91",
+      "_type": "image",
+      "asset": {
+        "_ref": "image-da59d14b4878e53b5de0691f72b1c921ce1faadd-3456x5184-jpg",
+        "_type": "reference"
+      }
+    }
+  ],
+  "info": "The croton is an easy-to-grow houseplant known for its variegated foliage covered in green, scarlet, orange, and yellow splotches. Croton, also called “garden croton,” are native to the tropical forests of southeast Asia and Oceania. In the wild, they grow as large shrubs, reaching up to 10 feet tall. ",
+  "pot": [
+    {
+      "_key": "4cf7402179e4",
+      "_ref": "e2e39691-09c0-4b20-98a1-e1defc15db8b",
+      "_type": "reference"
+    },
+    {
+      "_key": "f5c7d03316bd",
+      "_ref": "4cdfe238-8f0f-45ce-97d7-dc43a7ca0815",
+      "_type": "reference"
+    },
+    {
+      "_key": "50a2613ab36a",
+      "_ref": "6ebdea0f-2f2c-47d9-baaf-e813ef61f830",
+      "_type": "reference"
+    }
+  ],
+  "previewImage": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-957759bb3476477d842a14ec65a79ed83f5057dc-3428x4986-jpg",
+      "_type": "reference"
+    }
+  },
+  "price": 1000,
+  "scientificName": "Codiadeum variegatum",
+  "size": 12,
+  "slug": {
+    "_type": "slug",
+    "current": "croton-plant"
+  },
+  "title": "Croton plant"
+}
