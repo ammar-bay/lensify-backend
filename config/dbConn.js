@@ -4,6 +4,7 @@ const DB = `mongodb+srv://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@
 
 const connectDB = async () => {
   try {
+    console.log(DB)
     await mongoose.connect(DB, {
       useUnifiedTopology: true,
       useNewUrlParser: true,
